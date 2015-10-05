@@ -1,1 +1,2 @@
-# mongodb for node.js developers
+# M101JS: MONGODB FOR NODE.JS DEVELOPERS
+# Oct 2015 session
