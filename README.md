@@ -1,2 +1,2 @@
 # M101JS: MONGODB FOR NODE.JS DEVELOPERS
-# Oct 2015 session
+Oct 2015 session
